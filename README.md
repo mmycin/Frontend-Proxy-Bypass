@@ -295,17 +295,6 @@ This PoC teaches:
 
 ---
 
-## Roadmap / Future Ideas
-
-| Feature | Status |
-|-------|--------|
-| Add CSRF token (to show bypass) | Planned |
-| Rate limiting middleware | Planned |
-| JWT instead of API key | Planned |
-| Docker Compose setup | Planned |
-| Automated exploit script | Planned |
-
----
 
 ## License
 
